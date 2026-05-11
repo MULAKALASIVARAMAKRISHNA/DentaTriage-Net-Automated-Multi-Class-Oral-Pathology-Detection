@@ -61,29 +61,6 @@ For an agency managing 10,000 images, the deployment of DentaTriage-Net provides
 2. **Resource Allocation:** Mapping disease prevalence across geographic sectors using AI-generated metadata.
 3. **Patient Trust:** Providing a "Visual Second Opinion" with **Confidence Intervals**, which has been shown to increase patient compliance for expensive procedures.
 
-
-## 🔍 Model Predictions & Results
-
-Below are sample outputs from **DentaTriage-Net**, demonstrating its ability to detect and classify various oral pathologies with high confidence.
-
-### Dental Caries
-![Caries Prediction](images/Caries.PNG)
-> **Prediction:** Caries | **Confidence:** 99.42%
-
-### Tooth Discoloration
-![Tooth Discoloration Example 1](images/Discoloration.PNG)
-> **Prediction:** Tooth_Discoloration | **Confidence:** 76.23%
-
-![Tooth Discoloration Example 2](images/tooth_discoloration.PNG)
-> **Prediction:** Tooth_Discoloration | **Confidence:** 97.60%
-
-### Hypodontia
-![Hypodontia Prediction](images/hypondotia.PNG)
-> **Prediction:** Hypodontia | **Confidence:** 99.87%
-
-### Mouth Ulcer
-![Ulcer Prediction](images/Ulcer.PNG)
-> **Prediction:** Ulcer | **Confidence:** 72.94%
 ## 7. Conclusion: The Future of Dental AI
 
 DentaTriage-Net isn't just a classifier; it’s a **Scalable Inference Pipeline**. By utilizing **Global Pooling, Dropout Regularization, and SOTA Transfer Learning**, the project demonstrates the capability to handle real-world clinical data complexity. It stands as a blueprint for how AI can transform dental healthcare from reactive treatment to **Proactive, Population-Scale Screening**.
