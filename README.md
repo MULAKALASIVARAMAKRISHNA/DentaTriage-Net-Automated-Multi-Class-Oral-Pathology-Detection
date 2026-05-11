@@ -66,3 +66,6 @@ For an agency managing 10,000 images, the deployment of DentaTriage-Net provides
 DentaTriage-Net isn't just a classifier; it’s a **Scalable Inference Pipeline**. By utilizing **Global Pooling, Dropout Regularization, and SOTA Transfer Learning**, the project demonstrates the capability to handle real-world clinical data complexity. It stands as a blueprint for how AI can transform dental healthcare from reactive treatment to **Proactive, Population-Scale Screening**.
 
 ---
+
+/storage/emulated/0/Caries.PNG
+
