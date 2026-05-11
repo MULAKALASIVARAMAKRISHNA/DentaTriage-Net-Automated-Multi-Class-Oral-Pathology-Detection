@@ -67,5 +67,6 @@ DentaTriage-Net isn't just a classifier; it’s a **Scalable Inference Pipeline*
 
 ---
 
-/storage/emulated/0/Caries.PNG
+![Screenshot](./storage/emulated/0/Caries.PNG)
+![Logo](./assets/logo.jpg)
 
